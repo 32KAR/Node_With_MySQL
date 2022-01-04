@@ -1,5 +1,5 @@
 node_modules
 logs
-uploads
+app/uploads
 package-lock.json
 .env
